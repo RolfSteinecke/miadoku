@@ -1,4 +1,3 @@
-# MIA-Hilfeseiten
 ## Suchen
 ### [Schnellsuche](Schnellsuche.md)
 ## Beschreibungen und Arbeitsabläufe
