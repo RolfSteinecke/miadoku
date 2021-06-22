@@ -1,4 +1,5 @@
 # [Schnellsuche](http://des-mia.de/confluence/display/MIA/Schnellsuche)
+[Home](/MIA-Hilfeseiten.md)
 
 Im oberen Bereich der Maske befinden sich die Felder, in die Sie die Daten eingeben können, nach denen Sie suchen wollen.
 

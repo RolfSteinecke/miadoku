@@ -4,8 +4,8 @@
 ## Beschreibungen und Arbeitsabläufe
 ## Personen- und Mitgliedsdaten
 ## Finanzen
-### [[Gutschriften]]
-### [[Schnellbuchung]]
+### [Finanzen/Gutschriften]
+### [Finanzen/Schnellbuchung]
 ## Administration
 ## Person erfassen
 ## Fragen & Antworten
