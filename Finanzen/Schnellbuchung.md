@@ -1,4 +1,4 @@
-[Home](/miadoku/MIA-Hilfeseiten.md)
+[Home](MIA-Hilfeseiten.md)
 
 Mit der dieser Funktion können gleichartige Buchungen, wie z. B. Überweisungsgutschriften von Mitgliedern auf einem Kontoauszug der Bank, schnell verbucht werden.
 
