@@ -1,11 +1,10 @@
-# MIA-Hilfeseiten
 ## Suchen
 ### [Schnellsuche](Schnellsuche.md)
 ## Beschreibungen und Arbeitsabläufe
 ## Personen- und Mitgliedsdaten
 ## Finanzen
-### [Finanzen/Gutschriften]
-### [Finanzen/Schnellbuchung]
+### [Gutschriften](/Finanzen/Gutschriften.md)
+### [Schnellbuchung](/Finanzen/Schnellbuchung.md)
 ## Administration
 ## Person erfassen
 ## Fragen & Antworten
