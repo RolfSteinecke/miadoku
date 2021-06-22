@@ -1,5 +1,5 @@
 # Gegenstand der Maske
-[Home](/MIA-Hilfeseiten.md)
+[Home](../MIA-Hilfeseiten.md)
 
 In dieser Maske können Überweisungsgutschriften, die in camt54-Dateien als Detallierung zum Kontoauszug geliefert werden, auf die jeweiligen Mitgliedskonten verbucht werden.
 
