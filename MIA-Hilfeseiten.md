@@ -1,5 +1,6 @@
 # MIA-Hilfeseiten
 ## Suchen
+### [[Schnellsuche]]
 ## Beschreibungen und Arbeitsabläufe
 ## Personen- und Mitgliedsdaten
 ## Finanzen
